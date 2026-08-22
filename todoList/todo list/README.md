@@ -23,6 +23,9 @@ A clean, simple, and responsive Todo List application built with React. The app 
 - Material UI (MUI)
 - Material UI Icons
 
+# Deployed:
+https://nilesh-todolist.vercel.app/
+
 # Installation
 
 Clone this repository:
