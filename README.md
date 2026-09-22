@@ -9,7 +9,7 @@ A curated collection of modern, production-grade **React** applications and expe
 | Project | Tech Stack | Highlights | Link |
 | :--- | :--- | :--- | :--- |
 | 🍔 **NG Restaurant** | React 19, Tailwind CSS, Material UI, Parcel | Full-featured food delivery SPA with `CartContext` (Array CRUD), live search, multi-criteria filtering, Shimmer UI, and deep-linked menus | [View Project](https://ng-restaurant.vercel.app/) |
-| 📝 **Todo List** | React, CSS | Interactive task management application with state handling | [View Project](https://nilesh-todolist-3uoqrj5yo-nilesh-gupta-s-projects.vercel.app/](https://nilesh-todolist-3uoqrj5yo-nilesh-gupta-s-projects.vercel.app/) |
+| 📝 **Todo List** | React, CSS | Interactive task management application with state handling | [View Project](https://nilesh-todolist-3uoqrj5yo-nilesh-gupta-s-projects.vercel.app/) |
 | ⛅ **Weather App** | React, API Integration | Live weather forecast application with location search | [View Project](./weatherApp/) |
 
 ---
