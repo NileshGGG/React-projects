@@ -1,0 +1,28 @@
+{
+  "name": "ep4",
+  "version": "1.0.0",
+  "description": "nameste-react",
+  "license": "ISC",
+  "author": "Nilesh",
+  "type": "module",
+  "scripts": {
+    "start": "parcel index.html",
+    "dev": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4",
+    "postcss": "^8.5.28",
+    "tailwindcss": "^3.4.19"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@mui/icons-material": "^9.4.0",
+    "@mui/material": "^9.4.0",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "react-router-dom": "^6.30.2"
+  }
+}
